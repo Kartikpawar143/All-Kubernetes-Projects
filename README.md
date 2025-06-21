@@ -11,6 +11,9 @@
 2. **[Django Notes App](https://github.com/Kartikpawar143/Django-Notes-App-K8S.git)** <br>
    →  Deployed a notes app through a k8s.
 
+3. **[Kubernetes MCP server with AI](https://github.com/Kartikpawar143/Kubernetes-MCP-server-with-AI--Project.git)** <br>
+   →  This Kubernetes project was done using AI — without writing a single line of code! 😱 
+
 <hr>
 <h3> <details>
 <summary> 👉 TO SEE ALL DEVOPS PROJECTS 👈 </summary><br><b>
