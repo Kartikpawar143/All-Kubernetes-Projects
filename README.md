@@ -12,7 +12,10 @@
    →  Deployed a notes app through a k8s.
 
 3. **[Kubernetes MCP server with AI](https://github.com/Kartikpawar143/Kubernetes-MCP-server-with-AI--Project.git)** <br>
-   →  This Kubernetes project was done using AI — without writing a single line of code! 😱 
+   →  This Kubernetes project was done using AI — without writing a single line of code! 😱
+
+4. **[Full Stack ChatApp](https://github.com/Kartikpawar143/Full-Stack-ChatApp.git)** <br>
+   →  This project aims to provide a real-time chat experience that's both scalable and secure. With a focus on modern technologies, we're building an application that's easy to use and maintain.
 
 <hr>
 <h3> <details>
