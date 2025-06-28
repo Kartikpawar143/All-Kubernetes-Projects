@@ -17,6 +17,9 @@
 4. **[Full Stack ChatApp](https://github.com/Kartikpawar143/Full-Stack-ChatApp.git)** <br>
    →  This project aims to provide a real-time chat experience that's both scalable and secure. With a focus on modern technologies, we're building an application that's easy to use and maintain.
 
+5. **[K8S Voting App With Monitoring](https://github.com/Kartikpawar143/k8s-voting-app-with-monitoring.git)** <br>
+   →  This is a distributed app composed of multiple containers for Docker, Compose, Swarm, and Kubernetes
+
 <hr>
 <h3> <details>
 <summary> 👉 TO SEE ALL DEVOPS PROJECTS 👈 </summary><br><b>
